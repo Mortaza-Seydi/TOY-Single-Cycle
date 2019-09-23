@@ -1,0 +1,113 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.5/examples
+T_opt
+!s110 1563268504
+V5Q9]Ej?@6O<W5ZfooCLkV2
+Z1 04 3 4 work cpu fast 0
+=1-f46d0456b6d2-5d2d9597-2fb-1d48
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5;63
+T_opt1
+!s110 1563192838
+V_6gMhNfQ@>=Eoecg:n_V@2
+R1
+=1-f46d0456b6d2-5d2c6e04-33e-26d4
+o-quiet -auto_acc_if_foreign -work work -L modelsim_lib
+R2
+n@_opt1
+R3
+R0
+valu
+Z4 !s110 1563268497
+!i10b 1
+!s100 2HjaCQ_JCe`>5bMom@lV80
+I^:ij2W8d1E0UB@S5EX[<G0
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dC:/Users/Mortaza/Desktop/TOY-Single
+w1563268494
+8C:/Users/Mortaza/Desktop/TOY-Single/alu.v
+FC:/Users/Mortaza/Desktop/TOY-Single/alu.v
+L0 1
+Z7 OL;L;10.5;63
+r1
+!s85 0
+31
+Z8 !s108 1563268497.000000
+!s107 C:/Users/Mortaza/Desktop/TOY-Single/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mortaza/Desktop/TOY-Single/alu.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vcontroller
+R4
+!i10b 1
+!s100 SGKKj:k4J<gXfkOV>Jm=:2
+I9[SL3L3U<Om@Fz`Jmg>II3
+R5
+R6
+w1563267036
+8C:/Users/Mortaza/Desktop/TOY-Single/controller.v
+FC:/Users/Mortaza/Desktop/TOY-Single/controller.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Mortaza/Desktop/TOY-Single/controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mortaza/Desktop/TOY-Single/controller.v|
+!i113 0
+R9
+R2
+vcpu
+Z10 !s110 1563268498
+!i10b 1
+!s100 bPo_Rm9^FEQYS=>RRTSNV2
+IlfSBHXJc`M`0`CIIc;6C?3
+R5
+R6
+w1563247032
+8C:/Users/Mortaza/Desktop/TOY-Single/cpu.v
+FC:/Users/Mortaza/Desktop/TOY-Single/cpu.v
+L0 1
+R7
+r1
+!s85 0
+31
+Z11 !s108 1563268498.000000
+!s107 C:/Users/Mortaza/Desktop/TOY-Single/cpu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mortaza/Desktop/TOY-Single/cpu.v|
+!i113 0
+R9
+R2
+vdata_memory
+R10
+!i10b 1
+!s100 Fc66`17Eoh9l<oJJ705lf0
+IAzila]5QoE@l4z5k<T=kR3
+R5
+R6
+w1563266013
+8C:/Users/Mortaza/Desktop/TOY-Single/data_memory.v
+FC:/Users/Mortaza/Desktop/TOY-Single/data_memory.v
+L0 1
+R7
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Mortaza/Desktop/TOY-Single/data_memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Mortaza/Desktop/TOY-Single/data_memory.v|
+!i113 0
+R9
+R2
